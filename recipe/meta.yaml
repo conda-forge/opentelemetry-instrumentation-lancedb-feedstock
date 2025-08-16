@@ -1,5 +1,5 @@
 {% set name = "opentelemetry-instrumentation-lancedb" %}
-{% set version = "0.45.4" %}
+{% set version = "0.45.5" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/{{ name[0] }}/{{ name }}/opentelemetry_instrumentation_lancedb-{{ version }}.tar.gz
-  sha256: 9a5f2ad644d4105e7ca3305f8e196e12c7b884741bf4d97d8021b32cdb0d6d1c
+  sha256: f3be79998cbd43aba777c5db12583b3b2c66f4380a677a91b32afb3fd6ac860b
 
 build:
   noarch: python

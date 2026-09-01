@@ -1,7 +1,7 @@
 About opentelemetry-instrumentation-lancedb-feedstock
 =====================================================
 
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/opentelemetry-instrumentation-lancedb-feedstock/blob/main/LICENSE.txt)
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/opentelemetry-instrumentation-lancedb-feedstock-pr92-feedstock/blob/main/LICENSE.txt)
 
 Home: https://www.traceloop.com/openllmetry
 
@@ -20,8 +20,8 @@ Current build status
 <table><tr>
     <td>All platforms:</td>
     <td>
-      <a href="https://github.com/conda-forge/opentelemetry-instrumentation-lancedb-feedstock/actions/workflows/conda-build.yml">
-        <img src="https://github.com/conda-forge/opentelemetry-instrumentation-lancedb-feedstock/actions/workflows/conda-build.yml/badge.svg?event=push&branch=main">
+      <a href="https://github.com/conda-forge/opentelemetry-instrumentation-lancedb-feedstock-pr92-feedstock/actions/workflows/conda-build.yml">
+        <img src="https://github.com/conda-forge/opentelemetry-instrumentation-lancedb-feedstock-pr92-feedstock/actions/workflows/conda-build.yml/badge.svg?event=push&branch=main">
       </a>
     </td>
   </tr>

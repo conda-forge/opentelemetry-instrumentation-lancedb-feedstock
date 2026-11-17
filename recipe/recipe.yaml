@@ -2,7 +2,7 @@ schema_version: 1
 
 context:
   name: opentelemetry-instrumentation-lancedb
-  version: "0.63.0"
+  version: "0.63.1"
 
 package:
   name: ${{ name|lower }}
@@ -10,7 +10,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/${{ name[0] }}/${{ name }}/opentelemetry_instrumentation_lancedb-${{ version }}.tar.gz
-  sha256: b3e79d0ffeb3248ade57b0cfe4847b0f8ac68ad454fc286fe66a06ba6bb9406e
+  sha256: a549cfd54676fb1b7b32bc1daebdfa8375f9981e2eb6469c7de20d244870cdc7
 
 build:
   number: 0
